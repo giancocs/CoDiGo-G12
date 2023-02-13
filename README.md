@@ -40,4 +40,16 @@ git add .
 git add nombredelarchivo.extension
 ```
 
+* crear el registro de los comandos realizados:
+
+```bash
+git commit -m "comentario corto y conciso"
+```
+
+* para ver uan linea de tiempo de los commits que hemos realizado:
+
+```bash
+git log
+```
+
 
