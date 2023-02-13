@@ -52,4 +52,12 @@ git commit -m "comentario corto y conciso"
 git log
 ```
 
+* para poder ver el detalle de un commit en especifico:
+
+```bash
+git show id-de-commit
+```
+
+
+
 
